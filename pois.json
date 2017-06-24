@@ -1,206 +1,206 @@
 {
-	"pois": [
-			 {
-			 "id":1,
-			 "title" : "Example A",
-			 "lat" : "10.807955",
-			 "lng" : "106.693879",
-			 "address" : "street a",
-			 "short_description": "Featuring free WiFi and a restaurant, Villa of Tranquility offers accommodations in Hoi An, just one kilometer from Japanese Covered Bridge. Guests can enjoy the on-site bar. Free private parking is available on site.",
-			 "detail": "Free use of bicycles is available at this hotel and the area is popular for biking. Assembly Hall of the Cantonese Chinese Congregation is one kilometer from Villa of Tranquility, and Hoi An Ancient Town is 1.8 km from the property. The nearest airport is Da Nang International Airport, 20.9 km from Villa of Tranquility.Tan An is a great choice for travelers interested in cycling, city walks and culture.This property also has one of the top-rated locations in Hoi An! Guests are happier about it compared to other properties in the area",
-			 "image_urls" : [
-				{
-				"url" : "https://static.pexels.com/photos/261102/pexels-photo-261102.jpeg"
-				},
-				{
-				"url": "https://static.pexels.com/photos/189296/pexels-photo-189296.jpeg"
-				},
-				{
-				"url" : "https://static.pexels.com/photos/97083/pexels-photo-97083.jpeg"
-				},
-				{
-				"url" : "https://static.pexels.com/photos/6534/holiday-vacation-hotel-luxury.jpg"
-				},
-				{
-				"url" : "https://static.pexels.com/photos/260922/pexels-photo-260922.jpeg"
-				},
-				{
-				"url" : "https://static.pexels.com/photos/6490/people-hotel-bar-drinks.jpg"
-				}
-			 ]
-			 },
-			 {
-			 "id":2,
-			 "title" : "Example B",
-			 "lat" : "10.806955",
-			 "lng" : "106.693179",
-			 "address" : "street b",
-			 "short_description": "Featuring a free-form outdoor pool and free private parking, Hai Yen Hotel offers budget accommodations with free Wi-Fi and flat-screen TVs. It is centrally located in Hoi An Ancient Town",
-			 "detail": "Large air conditioned rooms at Hai Yen are equipped with a private balcony and seating areas. They are equipped with a safe, electric teakettle and satellite TV. Private bathrooms have a bathtub, toiletries and a hairdryer. The staff is available at the front desk 24 hours a day and can help with travel arrangements. Guests can purchase gifts at the souvenir shop. Hai Yen Hotel provides shuttle service and currency exchange",
-			 "image_urls" : [
-							 {
-							 "url" : "https://static.pexels.com/photos/919/night-dark-hotel-luxury.jpg"
-							 },
-							 {
-							 "url": "https://static.pexels.com/photos/27308/pexels-photo-27308.jpg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/338504/pexels-photo-338504.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/131324/pexels-photo-131324.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/53577/hotel-architectural-tourism-travel-53577.jpeg"
-							 }
-							 ]
-			 },
-			 {
-			 "id":3,
-			 "title" : "Example C",
-			 "lat" : "10.812956",
-			 "lng" : "106.696218",
-			 "address" : "street c",
-			 "short_description": "Offering an outdoor pool, year-round outdoor pool and barbecue, Palm View Villa is located in Hoi An in the Quang Nam Region. 3 km from Assembly Hall of Chaozhou Chinese Congregation. The hotel has a children's playground, terrace and sun terrace, and guests can enjoy a meal at the restaurant.",
-			 "detail": "Each room has a flat-screen TV with satellite channels. Certain units feature a seating area where you can relax. Enjoy a cup of tea while looking out at the lake or pool. Every room is equipped with a private bathroom with a hot tub and bath, with bath robes, slippers and free toiletries provided. Palm View Villa features free WiFi throughout the property. A TV is featured. As the area is popular for cycling, Palm View Villa offers free bicycle use for each in-house guest. The Palm View also offers a shared kitchen facility",
-			 "image_urls" : [
-							 {
-							 "url" : "https://static.pexels.com/photos/27066/pexels-photo-27066.jpg"
-							 },
-							 {
-							 "url": "https://static.pexels.com/photos/280121/pexels-photo-280121.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/24957/pexels-photo-24957.jpg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/53577/hotel-architectural-tourism-travel-53577.jpeg"
-							 }
-							 ]
-			 },
-			 {
-				"id":4,
-			 "title" : "Example D",
-			 "lat" : "10.812656",
-			 "lng" : "106.695218",
-			 "address" : "street d",
-			 "short_description": "Located 2.9 km from Assembly Hall of Chaozhou Chinese Congregation in Hoi An, An Villa features a restaurant, bar and free WiFi throughout the property. Guests can enjoy the on-site restaurant",
-			 "detail": "Some rooms feature a sitting area to relax in after a busy day. You will find a coffee machine in the room. Each room is equipped with a private bathroom. For your comfort, you will find bathrobes, slippers and free toiletries. There is concierge services at the property. Bike rental is available at this resort and the area is popular for biking. The resort also provides car rental. Assembly Hall of the Hainan Chinese Congregation is 3.1 km from An Villa, and Hoi An Historic Museum is 3.1 km away. The nearest airport is Da Nang International Airport, 25.7 km from An Villa",
-			 "image_urls" : [
-							 {
-							 "url" : "https://static.pexels.com/photos/264468/pexels-photo-264468.jpeg"
-							 },
-							 {
-							 "url": "https://static.pexels.com/photos/169193/pexels-photo-169193.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/189293/pexels-photo-189293.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/189293/pexels-photo-189293.jpeg"
-							 }
-							 ]
-			 },
-			 {
-				"id":5,
-			 "title" : "Example E",
-			 "lat" : "10.812846",
-			 "lng" : "106.685819",
-			 "address" : "street e",
-			 "short_description": "Surrounded by lush and spacious grounds in the heart of Hoi An, the Hoi An Hotel has 4-star accommodations just a 5-minute walk to World Heritage sites. Free beach shuttles are available to Hoian Beach, about 4 km away",
-			 "detail": "The Hoi An provides spacious rooms that include terraces, work desks, individual air conditioning, a bathroom with a bathtub and shower. Guests can enjoy the outdoor swimming pool or a game of tennis. A motorcycle, limousine and bike rental service is available and facilities such as an on-site spa and Beauty Salon are available. Free Wi-Fi is accessible in the business center. In a rich garden setting, the restaurant serves Asian and European dishes, as well as breakfast",
-			 "image_urls" : [
-							 {
-							 "url" : "https://static.pexels.com/photos/260922/pexels-photo-260922.jpeg"
-							 },
-							 {
-							 "url": "https://static.pexels.com/photos/260922/pexels-photo-260922.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/189293/pexels-photo-189293.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/189293/pexels-photo-189293.jpeg"
-							 }
-							 ]
-			 },
-			 {
-				"id":6,
-			 "title" : "Example F",
-			 "lat" : "10.788860",
-			 "lng" : "106.693115",
-			 "address" : "street f",
-			 "short_description": "Conveniently situated in Hoi An, La Residencia Hoi An Boutique Hotel and Spa offers a fusion of Hoi An charm and neoclassical Portuguese elegance with accommodation that also offers free WiFi access in the entire property. It features an indoor pool, a fully-equipped gym and business centre",
-			 "detail": "This hotel is just 300 m from the renowned Hoi An Ancient Town and Hoi An Market. Japanese Covered Bridge is 600 m away, while Da Nang Airport is accessible within a 30 km drive. Offering city views from the balcony, air-conditioned suites include an in-room safe, minibar, a flat-screen cable/satellite TV and sofa seating area. The en suite bathroom comes with shower facility, bathrobes, hairdryer and free toiletries",
-			 "image_urls" : [
-							 {
-							 "url" : "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
-							 }
-							 ]
-			 },
-			 {
-				"id":7,
-			 "title" : "Example G",
-			 "lat" : "10.799230",
-			 "lng" : "106.674747",
-			 "address" : "street g",
-			 "short_description": "This property is 1 minute walk from the beach. Located in the Cam Thanh district, Koi Resort & Spa Hoi An offers an outdoor pool and views of the lake. Free WiFi is available throughout the property",
-			 "detail": "Cua Dai Beach is a few minutes walk from Koi Resort & Spa Hoi An, while An Bang Beach is 3.5 km away. The nearest airport is Da Nang International Airport, 25 km from the property. The property offers airport transfers at a surcharge. The air-conditioned rooms feature a TV, an electric kettle and a minibar. The en suite bathroom comes with bathrobes, slippers and free toiletries. The 24-hour front desk staff can assist guests with tour arrangements",
-			 "image_urls" : [
-							 {
-							 "url" : "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
-							 }
-							 ]
-			 },
-			 {
-				"id":8,
-			 "title" : "Example H",
-			 "lat" : "10.934518",
-			 "lng" : "106.734228",
-			 "address" : "street h",
-			 "short_description": "Situated next to the river in Hoi An, River Suites Hoi An offers an outdoor pool and a restaurant. With a park by the river, this area is perfect for cycling and other riverside activities such as picnics and jogging",
-			 "detail": "The hotel is 400 m from Japanese Covered Bridge and the Assembly Hall of the Cantonese Chinese Congregation and 200 m from Hoi An Ancient Town. Danang International Airport is 35 km away. Airport shuttle is available at a fee. Each well-decorated room features a spacious sitting area with a flat-screen cable TV. It comes with a daybed/sofa and offers views of the city or the river from its bed-side window. En suite bathrooms feature standalone bathtubs. Some rooms come with a balcony",
-			 "image_urls" : [
-							 {
-							 "url" : "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
-							 },
-							 {
-							 "url" : "https://static.pexels.com/photos/53577/hotel-architectural-tourism-travel-53577.jpeg"
-							 }
-							 ]
-			 }
-			 ]
+  "pois": [
+    {
+      "id": 1,
+      "title": "Example A",
+      "lat": "10.807955",
+      "lng": "106.693879",
+      "address": "street a",
+      "short_description": "Featuring free WiFi and a restaurant, Villa of Tranquility offers accommodations in Hoi An, just one kilometer from Japanese Covered Bridge. Guests can enjoy the on-site bar. Free private parking is available on site.",
+      "detail": "Free use of bicycles is available at this hotel and the area is popular for biking. Assembly Hall of the Cantonese Chinese Congregation is one kilometer from Villa of Tranquility, and Hoi An Ancient Town is 1.8 km from the property. The nearest airport is Da Nang International Airport, 20.9 km from Villa of Tranquility.Tan An is a great choice for travelers interested in cycling, city walks and culture.This property also has one of the top-rated locations in Hoi An! Guests are happier about it compared to other properties in the area",
+      "image_urls": [
+        {
+          "url": "https://static.pexels.com/photos/261102/pexels-photo-261102.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/189296/pexels-photo-189296.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/97083/pexels-photo-97083.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/6534/holiday-vacation-hotel-luxury.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/260922/pexels-photo-260922.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/6490/people-hotel-bar-drinks.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Example B",
+      "lat": "10.806955",
+      "lng": "106.693179",
+      "address": "street b",
+      "short_description": "Featuring a free-form outdoor pool and free private parking, Hai Yen Hotel offers budget accommodations with free Wi-Fi and flat-screen TVs. It is centrally located in Hoi An Ancient Town",
+      "detail": "Large air conditioned rooms at Hai Yen are equipped with a private balcony and seating areas. They are equipped with a safe, electric teakettle and satellite TV. Private bathrooms have a bathtub, toiletries and a hairdryer. The staff is available at the front desk 24 hours a day and can help with travel arrangements. Guests can purchase gifts at the souvenir shop. Hai Yen Hotel provides shuttle service and currency exchange",
+      "image_urls": [
+        {
+          "url": "https://static.pexels.com/photos/919/night-dark-hotel-luxury.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/27308/pexels-photo-27308.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/338504/pexels-photo-338504.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/131324/pexels-photo-131324.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/53577/hotel-architectural-tourism-travel-53577.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Example C",
+      "lat": "10.812956",
+      "lng": "106.696218",
+      "address": "street c",
+      "short_description": "Offering an outdoor pool, year-round outdoor pool and barbecue, Palm View Villa is located in Hoi An in the Quang Nam Region. 3 km from Assembly Hall of Chaozhou Chinese Congregation. The hotel has a children's playground, terrace and sun terrace, and guests can enjoy a meal at the restaurant.",
+      "detail": "Each room has a flat-screen TV with satellite channels. Certain units feature a seating area where you can relax. Enjoy a cup of tea while looking out at the lake or pool. Every room is equipped with a private bathroom with a hot tub and bath, with bath robes, slippers and free toiletries provided. Palm View Villa features free WiFi throughout the property. A TV is featured. As the area is popular for cycling, Palm View Villa offers free bicycle use for each in-house guest. The Palm View also offers a shared kitchen facility",
+      "image_urls": [
+        {
+          "url": "https://static.pexels.com/photos/27066/pexels-photo-27066.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/280121/pexels-photo-280121.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/24957/pexels-photo-24957.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/53577/hotel-architectural-tourism-travel-53577.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Example D",
+      "lat": "10.812656",
+      "lng": "106.695218",
+      "address": "street d",
+      "short_description": "Located 2.9 km from Assembly Hall of Chaozhou Chinese Congregation in Hoi An, An Villa features a restaurant, bar and free WiFi throughout the property. Guests can enjoy the on-site restaurant",
+      "detail": "Some rooms feature a sitting area to relax in after a busy day. You will find a coffee machine in the room. Each room is equipped with a private bathroom. For your comfort, you will find bathrobes, slippers and free toiletries. There is concierge services at the property. Bike rental is available at this resort and the area is popular for biking. The resort also provides car rental. Assembly Hall of the Hainan Chinese Congregation is 3.1 km from An Villa, and Hoi An Historic Museum is 3.1 km away. The nearest airport is Da Nang International Airport, 25.7 km from An Villa",
+      "image_urls": [
+        {
+          "url": "https://static.pexels.com/photos/264468/pexels-photo-264468.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/169193/pexels-photo-169193.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/189293/pexels-photo-189293.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/189293/pexels-photo-189293.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Example E",
+      "lat": "10.812846",
+      "lng": "106.685819",
+      "address": "street e",
+      "short_description": "Surrounded by lush and spacious grounds in the heart of Hoi An, the Hoi An Hotel has 4-star accommodations just a 5-minute walk to World Heritage sites. Free beach shuttles are available to Hoian Beach, about 4 km away",
+      "detail": "The Hoi An provides spacious rooms that include terraces, work desks, individual air conditioning, a bathroom with a bathtub and shower. Guests can enjoy the outdoor swimming pool or a game of tennis. A motorcycle, limousine and bike rental service is available and facilities such as an on-site spa and Beauty Salon are available. Free Wi-Fi is accessible in the business center. In a rich garden setting, the restaurant serves Asian and European dishes, as well as breakfast",
+      "image_urls": [
+        {
+          "url": "https://static.pexels.com/photos/260922/pexels-photo-260922.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/260922/pexels-photo-260922.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/189293/pexels-photo-189293.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/189293/pexels-photo-189293.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Example F",
+      "lat": "10.788860",
+      "lng": "106.693115",
+      "address": "street f",
+      "short_description": "Conveniently situated in Hoi An, La Residencia Hoi An Boutique Hotel and Spa offers a fusion of Hoi An charm and neoclassical Portuguese elegance with accommodation that also offers free WiFi access in the entire property. It features an indoor pool, a fully-equipped gym and business centre",
+      "detail": "This hotel is just 300 m from the renowned Hoi An Ancient Town and Hoi An Market. Japanese Covered Bridge is 600 m away, while Da Nang Airport is accessible within a 30 km drive. Offering city views from the balcony, air-conditioned suites include an in-room safe, minibar, a flat-screen cable/satellite TV and sofa seating area. The en suite bathroom comes with shower facility, bathrobes, hairdryer and free toiletries",
+      "image_urls": [
+        {
+          "url": "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Example G",
+      "lat": "10.799230",
+      "lng": "106.674747",
+      "address": "street g",
+      "short_description": "This property is 1 minute walk from the beach. Located in the Cam Thanh district, Koi Resort & Spa Hoi An offers an outdoor pool and views of the lake. Free WiFi is available throughout the property",
+      "detail": "Cua Dai Beach is a few minutes walk from Koi Resort & Spa Hoi An, while An Bang Beach is 3.5 km away. The nearest airport is Da Nang International Airport, 25 km from the property. The property offers airport transfers at a surcharge. The air-conditioned rooms feature a TV, an electric kettle and a minibar. The en suite bathroom comes with bathrobes, slippers and free toiletries. The 24-hour front desk staff can assist guests with tour arrangements",
+      "image_urls": [
+        {
+          "url": "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/5329/person-woman-apple-hotel.jpg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Example H",
+      "lat": "10.934518",
+      "lng": "106.734228",
+      "address": "street h",
+      "short_description": "Situated next to the river in Hoi An, River Suites Hoi An offers an outdoor pool and a restaurant. With a park by the river, this area is perfect for cycling and other riverside activities such as picnics and jogging",
+      "detail": "The hotel is 400 m from Japanese Covered Bridge and the Assembly Hall of the Cantonese Chinese Congregation and 200 m from Hoi An Ancient Town. Danang International Airport is 35 km away. Airport shuttle is available at a fee. Each well-decorated room features a spacious sitting area with a flat-screen cable TV. It comes with a daybed/sofa and offers views of the city or the river from its bed-side window. En suite bathrooms feature standalone bathtubs. Some rooms come with a balcony",
+      "image_urls": [
+        {
+          "url": "https://static.pexels.com/photos/346392/pexels-photo-346392.jpeg"
+        },
+        {
+          "url": "https://static.pexels.com/photos/53577/hotel-architectural-tourism-travel-53577.jpeg"
+        }
+      ]
+    }
+  ]
 }
